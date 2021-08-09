@@ -1,0 +1,15 @@
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.AssemblyInfo.cs
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.exe
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.deps.json
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.runtimeconfig.json
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.runtimeconfig.dev.json
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.dll
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\ref\fibonacci.dll
+C:\Users\zarak\source\repos\test3\bin\Debug\net5.0\fibonacci.pdb
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.dll
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\ref\fibonacci.dll
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.pdb
+C:\Users\zarak\source\repos\test3\obj\Debug\net5.0\fibonacci.genruntimeconfig.cache
